@@ -1,0 +1,12 @@
+Metadata-Version: 1.1
+Name: DocxTemplateManager
+Version: 0.1.2
+Summary: A library for managing templated Microsoft Word Documents with imports from Excel.
+Home-page: https://github.com/TheRobotCarlson/DocxTemplateManager
+Author: Brian Carlson
+Author-email: briancarlson6174@gmail.com
+License: UNKNOWN
+Download-URL: https://github.com/TheRobotCarlson/DocxTemplateManager/archive/0.1.tar.gz
+Description: UNKNOWN
+Keywords: docx,merge,word,excel
+Platform: UNKNOWN

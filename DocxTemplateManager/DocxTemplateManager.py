@@ -84,7 +84,7 @@ def render_doc(content_context, from_path):
     return temp.docx
 
 
-class DocTemplateManager(object):
+class DocxTemplateManager(object):
 
     def __init__(self, parent_dir, template_path, completed_path_tpl, archive_path_tpl, default_excel):
         self.parent_dir = parent_dir

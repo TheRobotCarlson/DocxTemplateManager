@@ -1,0 +1,9 @@
+setup.py
+DocxTemplateManager/ChangeTracker.py
+DocxTemplateManager/DocxTemplateManager.py
+DocxTemplateManager/__init__.py
+DocxTemplateManager.egg-info/PKG-INFO
+DocxTemplateManager.egg-info/SOURCES.txt
+DocxTemplateManager.egg-info/dependency_links.txt
+DocxTemplateManager.egg-info/requires.txt
+DocxTemplateManager.egg-info/top_level.txt
